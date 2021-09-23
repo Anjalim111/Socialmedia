@@ -1,0 +1,16 @@
+body{
+background-image:url("fd.jpg");
+}
+h1{
+background-color:black;
+color:white;
+background-size: auto;
+margin-left: 500px;
+margin-right: 500px;
+ }
+.button:hover
+{
+background-color:green;
+transition: 00.2s;
+
+}
